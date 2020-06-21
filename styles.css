@@ -1,0 +1,34 @@
+body {
+  background-color: #dae1e7;
+}
+
+hr {
+  border: dotted #aacfcf;
+  border-width: 0 0 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #00909e;
+  font-family: 'Arvo', serif;
+}
+
+h3 {
+  color: #27496d;
+  font-family: 'Arvo', serif;
+}
+
+p {
+  font-family: 'Arvo', serif;
+}
+
+ul {
+  font-family: 'Arvo', serif;
+}
+table {
+  font-family: 'Arvo', serif;
+}
+
+a {
+  font-family: 'Arvo', serif;
+}
